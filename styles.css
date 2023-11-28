@@ -1,6 +1,9 @@
 *{
     box-sizing:border-box;
 }
+html{
+        overflow-x: hidden;
+}
 body{
     background-image:url(space.jpg);
     background-size:cover;
