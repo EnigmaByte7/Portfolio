@@ -213,10 +213,10 @@ footer{
         border-radius:5px;
     }
     .gridp div:nth-child(even){
-        padding-left:1vw;
+        padding-left:0.5vw;
      }
      .gridp div:nth-child(odd){
-         padding-left:1vw;
+         padding-left:0.5vw;
      }
      .gridp img{
         width:400px;
